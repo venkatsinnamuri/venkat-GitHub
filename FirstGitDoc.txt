@@ -7,3 +7,6 @@ ClassB
 {
 String str;
 }
+
+//I am QA Engineer
+//I have started developing the framework
