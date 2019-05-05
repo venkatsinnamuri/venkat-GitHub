@@ -1,0 +1,12 @@
+ClassA{
+
+Int i=0;
+}
+
+ClassB
+{
+String str;
+}
+
+//I am QA Engineer
+//I have started developing the framework
