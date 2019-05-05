@@ -1,0 +1,9 @@
+ClassA{
+
+Int i=0;
+}
+
+ClassB
+{
+String str;
+}
